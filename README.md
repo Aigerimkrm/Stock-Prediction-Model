@@ -40,3 +40,5 @@ pip install numpy pandas yfinance matplotlib sklearn
 - **geometric_brownian_motion(stock_data)**: Forecasts future stock prices using the Geometric Brownian Motion formula.
 - **Visualization functions**: Various functions to plot the actual vs. predicted prices, daily returns, and forecasts.
 
+## Authors
+Aigerim Zhumagulova & Dominik Plaček
