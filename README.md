@@ -35,7 +35,7 @@ pip install numpy pandas yfinance matplotlib sklearn
 - **historical_data(ticker)**: Retrieves historical stock data for the specified ticker.
 - **perform_linear_regression(stock_data)**: Computes and evaluates a linear regression model for predicting stock prices.
 - **lm_forecasting(linear_model)**: Forecasts future stock prices based on the linear regression model.
-- **calculate_daily_returns(stock_data**: Calculates the daily returns from the stock's close prices.
+- **calculate_daily_returns(stock_data)**: Calculates the daily returns from the stock's close prices.
 - **calculate_volatility(stock_data)**: Calculates the annualized volatility of the stock.
 - **geometric_brownian_motion(stock_data)**: Forecasts future stock prices using the Geometric Brownian Motion formula.
 - **Visualization functions**: Various functions to plot the actual vs. predicted prices, daily returns, and forecasts.
