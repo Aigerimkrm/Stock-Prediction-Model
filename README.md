@@ -23,4 +23,4 @@ This Python script is designed for stock price prediction and analysis, utilizin
 Necessery dependencies could be installed using pip:
 
 ```bash
-pip install numpy pandas yfinance matplotlib scikit-learn
+pip install numpy pandas yfinance matplotlib sklearn
