@@ -20,11 +20,23 @@ This Python script is designed for stock price prediction and analysis, utilizin
 - matplotlib
 - scikit-learn
 
-Necessery dependencies could be installed using pip:
+Necessary dependencies could be installed using pip:
 
 ```bash
 pip install numpy pandas yfinance matplotlib sklearn
 ```
 
 ## Usage
+- **1. Run the script in your Python environment**: Please make sure you have necessary dependencies
+- **2. Enter your stock TICKER**: When entered you will obtain analysis of the time series of daily returns.
+
+## Functions Overview
+
+- **historical_data(ticker)**: Retrieves historical stock data for the specified ticker.
+- **perform_linear_regression(stock_data)**: Computes and evaluates a linear regression model for predicting stock prices.
+- **lm_forecasting(linear_model)**: Forecasts future stock prices based on the linear regression model.
+- **calculate_daily_returns(stock_data**: Calculates the daily returns from the stock's close prices.
+- **calculate_volatility(stock_data)**: Calculates the annualized volatility of the stock.
+- **geometric_brownian_motion(stock_data)**: Forecasts future stock prices using the Geometric Brownian Motion formula.
+- **Visualization functions**: Various functions to plot the actual vs. predicted prices, daily returns, and forecasts.
 
