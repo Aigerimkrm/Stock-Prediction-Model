@@ -28,7 +28,7 @@ pip install numpy pandas yfinance matplotlib scikit-learn
 
 ## Usage
 - **1. Run the script in your Python environment**: Please make sure you have necessary dependencies
-- **2. Enter your stock TICKER**: When entered you will obtain analysis of the time series of daily returns.
+- **2. Enter your stock TICKER**: When entered you will obtain analysis of the time series of daily returns. List of stock symbols can be found, for example, here: https://stockanalysis.com/stocks/
 
 ## Functions Overview
 
