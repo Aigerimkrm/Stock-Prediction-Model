@@ -24,3 +24,7 @@ Necessery dependencies could be installed using pip:
 
 ```bash
 pip install numpy pandas yfinance matplotlib sklearn
+```
+
+## Usage
+
