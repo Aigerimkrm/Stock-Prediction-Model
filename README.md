@@ -13,7 +13,7 @@ This Python script is designed for stock price prediction and analysis, utilizin
 
 ## Dependencies
 
-- Python 3
+- Python 3.10
 - NumPy
 - pandas
 - yfinance
